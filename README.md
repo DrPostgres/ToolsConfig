@@ -120,3 +120,7 @@ in pairs, where in each pair we first see the _before_ (or current) state, and
 then we wee the _after_ state, presuming all their tools have adopted the
 ToolsConfig Specification.
 
+TODO
+----
+
+- Add a link to Git repo, to let people propose changes and improvements.
