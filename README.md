@@ -123,8 +123,10 @@ Alternatives
 The following proposals also try to solve the same problem.
 
 - [.meta][]
+- [.config]
 
 [.meta]: https://dotmeta.org/
+[.config]: https://dot-config.github.io/
 
 Discuss
 -------
