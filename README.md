@@ -77,7 +77,7 @@ different things. A `project` is source code being written and developed by a
 Software Developer.  A `tool` is a program that the Software Developer uses to
 transform the project's code for some purpose. For example, a web application
 may be considered a 'project', and Docker may be considered a `tool` it uses for
-deployment. Hence, a `Dockerfile` preesnt in the project's directory is a tool's
+deployment. Hence, a `Dockerfile` present in the project's directory is a tool's
 configuration file that this specification applies to.
 
 ### For Projects
